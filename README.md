@@ -341,3 +341,9 @@
          if (send_mesag_state_Batery > 2) {send_mesag_state_Batery = 2;}
          if(state_Batery > 80){send_mesag_state_Batery = 0;}
          }
+
+# После загрузки скетча собери все, как показано на этой схеме.
+
+<p align="center">
+  <img src="http://telegra.ph//file/050ad8c6c8cc88ecbdda2.jpg">
+</p>
